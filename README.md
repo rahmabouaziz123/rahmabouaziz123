@@ -13,6 +13,9 @@ I love building scalable, secure, and impactful applications.
 <img align="right" width="400"
 src="https://github-readme-streak-stats.herokuapp.com?user=bouazizrahma&theme=great-gatsby&hide_border=true" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=bouazizrahma&theme=great-gatsby&hide_border=true" width="400" style="float:right;" />
+
+
 ---
 
 ## 🚀 About Me
