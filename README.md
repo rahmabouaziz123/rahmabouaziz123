@@ -21,7 +21,7 @@ src="https://github-readme-streak-stats.herokuapp.com?user=bouazizrahma&theme=gr
 - 💻 Full-Stack Web & Data Developer  
 - 🔭 Currently working on an **Intelligent Online Recruitment Platform**  
 - 🤖 Interested in **AI-powered systems**, **Data**, and **HR Tech**  
-- 🌱 Currently improving my skills in **TypeScript, React Native & GraphQL**  
+- 🌱 Currently improving my skills in **flutter, React Native **  
 - 👯 Open to collaboration on **Web, Data & Intelligent Applications**
 
 ---
