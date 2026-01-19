@@ -10,8 +10,8 @@ I love building scalable, secure, and impactful applications.
   <img src="https://komarev.com/ghpvc/?username=bouazizrahma&color=orange" alt="bouazizrahma" />
 </p>
 
-<img align="right" width="400"
-src="https://github-readme-streak-stats.herokuapp.com?user=bouazizrahma&theme=great-gatsby&hide_border=true" />
+<!-- <img align="right" width="400"
+src="https://github-readme-streak-stats.herokuapp.com?user=bouazizrahma&theme=great-gatsby&hide_border=true" /> -->
 
 
 
