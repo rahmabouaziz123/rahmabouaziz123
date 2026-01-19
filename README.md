@@ -93,8 +93,7 @@ React • Node.js • GraphQL • REST APIs • Firebase • PostgreSQL • Powe
 
 ## 📊 GitHub Stats
 
-<img align="right" width="400"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouazizrahma&layout=compact&theme=great-gatsby&hide_border=true" />
+
 
 ---
 
