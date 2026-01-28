@@ -3,7 +3,7 @@
 
 <p align="center">
 Passionate about web development, data, and intelligent systems.<br/>
-I love building scalable, secure, and impactful applications.
+I enjoy building scalable, secure, and impactful applications. Driven by testing and software quality assurance, I ensure that solutions are reliable and easily maintainable.
 </p>
 
 <p align="left">
