@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bouaziz Rahma</h1>
-<h3 align="center">Full-Stack Web & Data Developer from Tunisia </h3>
+<h3 align="center">Développeuse Full-Stack React / Node.js & Data Developer from Tunisia </h3>
 
 <p align="center">
 Passionate about web development, data, and intelligent systems.<br/>
